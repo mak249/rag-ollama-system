@@ -1,0 +1,2 @@
+Machine learning enables software to improve its performance on a task through experience (data) rather than explicit programming. Supervised learning uses labeled examples to learn mappings from inputs to outputs (e.g., classification, regression). Unsupervised learning discovers structure in unlabeled data (e.g., clustering, dimensionality reduction). Reinforcement learning trains agents to take actions to maximize cumulative reward in an environment.
+

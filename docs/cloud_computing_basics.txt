@@ -1,0 +1,2 @@
+Cloud computing delivers computing services over the internet, including compute, storage, networking, and databases. The three primary service models are IaaS (infrastructure as a service), PaaS (platform as a service), and SaaS (software as a service). Benefits include elasticity, on‑demand provisioning, pay‑as‑you‑go pricing, and managed reliability. Common deployment models are public cloud, private cloud, and hybrid cloud.
+

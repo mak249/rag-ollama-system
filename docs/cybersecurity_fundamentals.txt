@@ -1,0 +1,2 @@
+Cybersecurity is the practice of protecting systems, networks, and data from digital attacks, disruption, or theft. Core principles are confidentiality, integrity, and availability (CIA triad). Key controls include authentication, authorization, encryption, network segmentation, patch management, monitoring, and incident response. Common threats are phishing, ransomware, and supply chain attacks.
+
