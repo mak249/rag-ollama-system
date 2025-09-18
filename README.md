@@ -307,8 +307,8 @@ This project is for educational purposes. Please ensure you have appropriate lic
 ---
 
 **Project Status**: ✅ Complete  
-**Last Updated**: [Current Date]  
-**Author**: [Your Name]  
+**Last Updated**: 18/09/2025
+**Author**: Mohammad arhan kaif
 **Version**: 1.0
 
 ---
